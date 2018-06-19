@@ -22,7 +22,7 @@ int main(){
 			printf("i = %d (i < 5)\n", i);
 		}
 		else if(i == 5){
-			printf("i is equal to 5\n", i);
+			printf("i is equal to 5\n");
 		}
 		else{
 			printf("i = %d (i > 5)\n", i);
