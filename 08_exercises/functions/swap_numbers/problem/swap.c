@@ -1,5 +1,6 @@
 /*-------------------------------------------------------------------
-Program that swaps the values of two integers within a function
+Program that swaps the values of two integers within a function.
+Fill in the TODO sections below.
 -------------------------------------------------------------------*/
 
 #include <stdio.h>

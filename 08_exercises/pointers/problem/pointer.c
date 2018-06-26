@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------
 A program that changes the value of a float through the use of a 
-pointer.
+pointer. Fill in the TODO sections below.
 ----------------------------------------------------------------*/
 
 #include <stdio.h>

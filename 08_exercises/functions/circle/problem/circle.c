@@ -1,5 +1,6 @@
 /*-------------------------------------------------------------------
 Program to calculate the area of a circle with a given radius.
+Fill in the TODO sections below.
 -------------------------------------------------------------------*/
 
 #include <stdio.h>

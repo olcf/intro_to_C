@@ -1,3 +1,7 @@
+/*--------------------------------------------------------------------
+Program that adds two vectors together. Fill in the TODO sections.
+--------------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main(){
