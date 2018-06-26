@@ -1,3 +1,7 @@
+/*------------------------------------------------------------
+Program that prints that value of an integer to the screen.
+------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main(){

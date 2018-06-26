@@ -1,3 +1,8 @@
+/*------------------------------------------------------------
+Program that prints that value of several variables to the
+screen along with their size in bytes (in a table format).
+------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main(){

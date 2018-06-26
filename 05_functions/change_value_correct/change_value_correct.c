@@ -1,3 +1,9 @@
+/*---------------------------------------------------------------
+Program that CORRECTLY shows how to use a function to change
+the value of an integer. This is meant to show how to "call a
+function by reference".
+---------------------------------------------------------------*/
+
 #include <stdio.h>
 
 // Function Definition

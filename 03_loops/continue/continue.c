@@ -1,3 +1,10 @@
+/*------------------------------------------------------------
+Program showing a continue statement within a for loop. The 
+loop iteration number is printed except for the value 7 since
+the continue statement moves on to the next iteration of the 
+loop.
+------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main(){

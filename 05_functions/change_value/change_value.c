@@ -1,3 +1,9 @@
+/*---------------------------------------------------------------
+Program that INCORRECTLY shows how to use a function to change
+the value of an integer. This is meant to show that C functions
+are "call by value" by default.
+---------------------------------------------------------------*/
+
 #include <stdio.h>
 
 // Function Definition

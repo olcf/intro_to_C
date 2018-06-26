@@ -1,3 +1,7 @@
+/*-------------------------------------------------
+Program that shows how to use user-defined
+functions. The function simply adds two integers.
+-------------------------------------------------*/
 #include <stdio.h>
 
 // Function Definition

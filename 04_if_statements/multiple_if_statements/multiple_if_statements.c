@@ -1,3 +1,9 @@
+/*------------------------------------------------------------
+Program showing the use of a single-line if statement, an
+if-else statement, and an if-elseif-else statement (within a
+while loop).
+------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main(){
